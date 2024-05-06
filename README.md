@@ -3,7 +3,7 @@ My public profile 🧑‍💻
 
  
 ## Skills:
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black)
 
 ## Encuéntrame en:
