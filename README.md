@@ -1,6 +1,13 @@
-# Hola Mundo soy Matias 😃
-My public profile 🧑‍💻  
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matiasdearriba.matiasdearriba" />
+# ¡Hola! Mundo soy Matias 😃 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matiasdearriba.matiasdearriba" />
+Un apasionado Desarrollador Web de Buenos Aires 🇦🇷.
+
+Me encanta la programación y explorar nuevas tecnologías, desarrollar soluciones creativas para desafíos en el mundo digital.
+
+Me gusta vivir la emoción de los partidos de Boca Juniors cuando juega en La Bombonera
+pero también disfruto de sumergirme en las páginas de un buen libro y jugar videojuegos.
+
+Este es mi rincón digital donde comparto la mayoría de los proyectos que desarrollo. 
+# ¡Bienvenido a explorar mi trabajo! 🧑‍💻 
 
  
 ## Skills:
