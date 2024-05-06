@@ -1,5 +1,5 @@
 # ¡Hola! Mundo soy Matias 😃 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matiasdearriba.matiasdearriba" />
-Un apasionado Desarrollador Web de Buenos Aires 🇦🇷.
+Desarrollador Web de Buenos Aires 🇦🇷.
 
 Me encanta la programación y explorar nuevas tecnologías, desarrollar soluciones creativas para desafíos en el mundo digital.
 
