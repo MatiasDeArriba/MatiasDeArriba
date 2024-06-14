@@ -1,4 +1,4 @@
-# ¡Hola! Mundo soy Matias 😃 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matiasdearriba.matiasdearriba" />
+# ¡Hola Mundo! soy Matias 😃 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matiasdearriba.matiasdearriba" />
 Desarrollador Web de Buenos Aires 🇦🇷.
 
 Me encanta la programación y explorar nuevas tecnologías, desarrollar soluciones creativas para desafíos en el mundo digital.
@@ -11,7 +11,7 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 
  
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma)](https://skillicons.dev)
 
 
 ## Encuéntrame en:
