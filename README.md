@@ -9,6 +9,7 @@ pero también disfruto de sumergirme en las páginas de un buen libro y jugar vi
 Este es mi rincón digital donde comparto la mayoría de los proyectos que desarrollo. 
 # ¡Bienvenido a explorar mi trabajo! 🧑‍💻 
 
+
  
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,php,npm,notion)](https://skillicons.dev)
