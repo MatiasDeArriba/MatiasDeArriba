@@ -7,7 +7,6 @@ Me gusta vivir la emoción de los partidos de Boca Juniors cuando juega en La Bo
 pero también disfruto de sumergirme en las páginas de un buen libro y jugar videojuegos.
 
 Este es mi rincón digital donde comparto la mayoría de los proyectos que desarrollo. 
-# ¡Bienvenido a explorar mi trabajo! 🧑‍💻 
 
 
  
@@ -19,3 +18,5 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias_De_Arriba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-de-arriba-4064a421a/) 
 [![Instagram](https://img.shields.io/badge/Instagram-@Matiasdearriba-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/matiasdearriba)
 
+
+# ¡Bienvenido a explorar mi trabajo! 🧑‍💻 
