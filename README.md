@@ -3,7 +3,7 @@ Desarrollador Web de Buenos Aires 🇦🇷.
 
 Me encanta la programación y explorar nuevas tecnologías, desarrollar soluciones creativas para desafíos en el mundo digital.
 
-Me gusta vivir la emoción de los partidos de Boca Juniors cuando juega en La Bombonera
+Soy fanatico de Boca Juniors y me gusta ir a la cancha cuando juega en La Bombonera
 pero también disfruto de sumergirme en las páginas de un buen libro y jugar videojuegos.
 
 Este es mi rincón digital donde comparto la mayoría de los proyectos que desarrollo. 
