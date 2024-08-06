@@ -21,5 +21,8 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 
 
 
+## Watch snake eating my github contributions
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 # ¡Bienvenido a explorar Mi Trabajo! 🧑‍💻 
