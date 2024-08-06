@@ -22,4 +22,4 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 
 
 
-# ¡Bienvenido a explorar mi trabajo! 🧑‍💻 
+# ¡Bienvenido a explorar Mi Trabajo! 🧑‍💻 
