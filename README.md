@@ -21,7 +21,7 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 
 
 
-![snake gif](https://github.com/matiasdearriba/matiasdearriba/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/matiasdearriba/matiasdearriba/blob/output/github-contribution-grid-snake.svg)
 
 
 # ¡Bienvenido a explorar Mi Trabajo! 🧑‍💻 
