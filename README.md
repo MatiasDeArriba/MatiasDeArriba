@@ -21,7 +21,6 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 
 
 
-## Watch snake eating my github contributions
 ![snake gif](https://github.com/MatiasDeArriba/MatiasDeArriba/blob/output/github-contribution-grid-snake.svg)
 
 
