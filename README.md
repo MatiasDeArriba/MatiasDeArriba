@@ -11,7 +11,7 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 
  
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,notion,git,figma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,notion,git,typescript,wordpress,figma)](https://skillicons.dev)
 
 
 ## Encuéntrame en:
