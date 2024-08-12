@@ -26,4 +26,4 @@ Este es mi rincón digital donde comparto la mayoría de los proyectos que desar
 
 
 
-# ¡Bienvenido a explorar Mi Trabajo! 🧑‍💻 
+# Explore all my works! 🧑‍💻 
