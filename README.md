@@ -54,26 +54,6 @@ Fanático de Boca Juniors 💙💛💙, la Bombonera y los videojuegos 🎮.
 - Reporte de bugs en Jira  
 - Validaciones SQL  
 - Colecciones de Postman  
-📁 *Repositorio:* (agregar link)
-
----
-
-### 🔹 **Memory Game (React)**
-Juego de memoria hecho con React Hooks, diseño limpio y responsive.  
-📁 *Repositorio:* (agregar link)
-
----
-
-### 🔹 **Validaciones con SQL**
-Proyecto práctico con queries reales para validar datos en entornos QA.  
-📁 *Repositorio:* (agregar link)
-
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MatiasDeArriba&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDeArriba&layout=compact&theme=dark)
 
 ---
 
