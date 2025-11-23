@@ -59,7 +59,7 @@ Fanático de Boca Juniors 💙💛💙, la Bombonera y los videojuegos 🎮.
 
 ## 🔗 Encontrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20De%20Arriba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasdearriba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20De%20Arriba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-de-arriba/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40matiasdearriba-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matiasdearriba)
 
 ---
