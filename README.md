@@ -1,29 +1,106 @@
-# ¡Hola Mundo! soy Matias 😃 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matiasdearriba.matiasdearriba" />
-Desarrollador Web de Buenos Aires 🇦🇷.
+# ¡Hola Mundo! soy Matías 👋🙂
 
-Me encanta la programación y explorar nuevas tecnologías, desarrollar soluciones creativas para desafíos en el mundo digital.
+Soy **QA Tester Manual** orientado a entornos ágiles, con experiencia en diseño de casos de prueba, análisis de requerimientos, reporte de bugs y validación funcional.  
+También cuento con una base sólida en **desarrollo web** (JavaScript, React, Node.js), lo cual me permite comunicarme mejor con equipos técnicos y analizar productos con una mirada más integral.
 
-Soy fanatico de Boca Juniors y me gusta ir a la cancha cuando juega en La Bombonera
-pero también disfruto de sumergirme en las páginas de un buen libro y jugar videojuegos.
+Me apasiona la calidad, la mejora continua y documentar procesos de forma clara.  
+Fanático de Boca Juniors 💙💛💙, la Bombonera y los videojuegos 🎮.
 
-Este es mi rincón digital donde comparto la mayoría de los proyectos que desarrollo. 
+---
 
+## 🛠️ Tech Stack
 
- 
-## Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,notion,git,typescript,wordpress,figma)](https://skillicons.dev)
+### **Frontend**
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+### **Backend / Entorno**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias_De_Arriba-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-de-arriba-4064a421a/) 
-[![Instagram](https://img.shields.io/badge/Instagram-@Matiasdearriba-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/matiasdearriba)
+### **QA Manual**
+![Jira](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
+### **QA Automatizado (aprendiendo)**
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
+### **Otros**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Watch Snake eating my GitHub contributions
-![snake gif](https://github.com/matiasdearriba/matiasdearriba/blob/output/github-contribution-grid-snake.svg)
+---
 
+## 🎯 Sobre mí
+- Me encanta el mundo del testing y la calidad.
+- Disfruto aprender tecnologías nuevas y mejorar mis habilidades.
+- Me considero detallista, analítico y orientado a resultados.
+- Siempre busco entender **cómo funcionan las cosas por dentro**.
 
+---
 
+## 🧪 Proyectos Destacados
 
-# Explore all my works! 🧑‍💻 
+### 🔹 **Testing de eCommerce**
+- Casos de prueba funcionales  
+- Matriz de trazabilidad  
+- Reporte de bugs en Jira  
+- Validaciones SQL  
+- Colecciones de Postman  
+📁 *Repositorio:* (agregar link)
+
+---
+
+### 🔹 **Memory Game (React)**
+Juego de memoria hecho con React Hooks, diseño limpio y responsive.  
+📁 *Repositorio:* (agregar link)
+
+---
+
+### 🔹 **Validaciones con SQL**
+Proyecto práctico con queries reales para validar datos en entornos QA.  
+📁 *Repositorio:* (agregar link)
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MatiasDeArriba&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasDeArriba&layout=compact&theme=dark)
+
+---
+
+## 🔗 Encontrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20De%20Arriba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasdearriba)
+[![Instagram](https://img.shields.io/badge/Instagram-%40matiasdearriba-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matiasdearriba)
+
+---
+
+## 🤝 ¿Por qué trabajar conmigo?
+
+✔ Comunicación clara  
+✔ Excelente documentación  
+✔ Mentalidad analítica  
+✔ Proactividad  
+✔ Adaptabilidad  
+✔ Aprendizaje constante  
+
+---
+
+### 🐍 Snake de contribuciones  
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+### 👀 Visitas al perfil  
+![visitors](https://komarev.com/ghpvc/?username=MatiasDeArriba&style=flat-square&color=blue)
+
+---
