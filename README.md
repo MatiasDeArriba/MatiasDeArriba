@@ -20,7 +20,7 @@ Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio
 ### **Backend / Entorno**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### **QA Manual**
 ![Jira](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white)
