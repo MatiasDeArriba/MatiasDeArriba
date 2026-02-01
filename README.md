@@ -4,7 +4,7 @@ Soy **QA Tester Manual** orientado a entornos ágiles, con experiencia en diseñ
 También cuento con una base sólida en **desarrollo web** (JavaScript, React, Node.js), lo cual me permite comunicarme mejor con equipos técnicos y analizar productos con una mirada más integral.
 
 Me apasiona la calidad, la mejora continua y documentar procesos de forma clara.  
-Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio, amante de la **Fórmula 1** 🏎️, la **lectura** 📚 y los **videojuegos** 🎮.
+Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio, me gusta mucho la **Fórmula 1** 🏎️, la **lectura** 📚 y los **videojuegos** 🎮.
 
 
 ---
