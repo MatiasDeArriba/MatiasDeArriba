@@ -11,31 +11,30 @@ Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+# ¡Hola Mundo! soy Matías 👋🙂
 
-### **Backend / Entorno**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+Soy **QA Tester** enfocado en el aseguramiento de calidad tanto en procesos **Manuales** como en el camino hacia la **Automatización con Python**. 
 
+Mi enfoque actual está en el **Testing de Backend y APIs**, donde utilizo Python para crear scripts eficientes y SQL para la validación de datos. Me apasiona encontrar el "por qué" detrás de cada bug y optimizar los procesos de prueba.
 
-### **QA Manual**
+---
+
+## 🛠️ Tech Stack
+
+### **QA Automation & Backend (Enfoque Principal)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### **QA Manual & Gestión**
 ![Jira](https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![TestLink](https://img.shields.io/badge/Documentación-Manual-green?style=for-the-badge)
 
-### **QA Automatizado (aprendiendo)**
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### **Otros**
+### **Herramientas de Entorno**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
