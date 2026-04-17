@@ -68,7 +68,7 @@ Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio
 ---
 
 ### 🐍 Snake de contribuciones  
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/MatiasDeArriba/MatiasDeArriba/output/github-contribution-grid-snake.svg)
 
 ---
 
