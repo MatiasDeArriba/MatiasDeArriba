@@ -1,21 +1,13 @@
 # ¡Hola Mundo! soy Matías 👋🙂
 
-Soy **QA Tester Manual** orientado a entornos ágiles, con experiencia en diseño de casos de prueba, análisis de requerimientos, reporte de bugs y validación funcional.  
-También cuento con una base sólida en **desarrollo web** (JavaScript, React, Node.js), lo cual me permite comunicarme mejor con equipos técnicos y analizar productos con una mirada más integral.
+Soy **QA Tester** enfocado en el aseguramiento de calidad tanto en procesos **Manuales** como en el camino hacia la **Automatización con Python**. 
+
+Mi enfoque actual está en el **Testing de Backend y APIs**, donde utilizo Python para crear scripts eficientes y SQL para la validación de datos. Me apasiona encontrar el "por qué" detrás de cada bug y optimizar los procesos de prueba.
 
 Me apasiona la calidad, la mejora continua y documentar procesos de forma clara.  
 Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio, me gusta mucho la **Fórmula 1** 🏎️, la **lectura** 📚 y los **videojuegos** 🎮.
 
 
----
-
-## 🛠️ Tech Stack
-
-# ¡Hola Mundo! soy Matías 👋🙂
-
-Soy **QA Tester** enfocado en el aseguramiento de calidad tanto en procesos **Manuales** como en el camino hacia la **Automatización con Python**. 
-
-Mi enfoque actual está en el **Testing de Backend y APIs**, donde utilizo Python para crear scripts eficientes y SQL para la validación de datos. Me apasiona encontrar el "por qué" detrás de cada bug y optimizar los procesos de prueba.
 
 ---
 
