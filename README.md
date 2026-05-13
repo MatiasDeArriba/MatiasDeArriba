@@ -24,6 +24,7 @@ Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![TestLink](https://img.shields.io/badge/Documentación-Manual-green?style=for-the-badge)
 
+
 ### **Herramientas de Entorno**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
