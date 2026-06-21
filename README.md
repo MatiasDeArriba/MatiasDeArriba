@@ -5,7 +5,7 @@ Soy **QA Tester** enfocado en el aseguramiento de calidad tanto en procesos **Ma
 Mi enfoque actual está en el **Testing de Backend y APIs**, donde utilizo Python para crear scripts eficientes y SQL para la validación de datos. Me apasiona encontrar el "por qué" detrás de cada bug y optimizar los procesos de prueba.
 
 Me apasiona la calidad, la mejora continua y documentar procesos de forma clara.  
-Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio, me gusta mucho la **Fórmula 1** 🏎️, la **lectura** 📚 y los **videojuegos** 🎮🌻.
+Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio **La Bombonera** , me gusta mucho la **Fórmula 1** 🏎️, la **lectura** 📚 y los **videojuegos** 🎮🌻.
 
 
 
