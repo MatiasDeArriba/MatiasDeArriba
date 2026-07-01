@@ -54,7 +54,7 @@ Fuera del mundo tech soy fanático de **Boca Juniors** 💙💛💙 y su estadio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias%20De%20Arriba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-de-arriba/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40matiasdearriba-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matiasdearriba)
-[![Email](https://img.shields.io/badge/Email-matiasdearriba10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dearribamatiashernan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dearribamatiashernan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dearribamatiashernan@gmail.com)
 
 ---
 
